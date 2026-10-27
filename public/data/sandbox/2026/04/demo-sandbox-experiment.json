@@ -1,0 +1,13 @@
+{
+  "id": "demo-sandbox-experiment",
+  "title": "Noise Field Test",
+  "year": 2026,
+  "month": 4,
+  "published": true,
+  "description_ja": "TouchDesignerでノイズフィールドを可視化した実験。まだ作品と呼べる段階ではないが、方向性のメモとして残しておく。",
+  "tags": ["experiment", "TouchDesigner"],
+  "thumbnail": "",
+  "images": [],
+  "video": null,
+  "_demo": true
+}

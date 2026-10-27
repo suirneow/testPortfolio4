@@ -1,0 +1,23 @@
+{
+  "id": "demo-graphic-installation",
+  "title": "Misread Surface",
+  "year": 2026,
+  "month": 5,
+  "published": true,
+  "genre": "graphic",
+  "role": "Graphic Design, Installation",
+  "caption_en": "Print on translucent film, steel frame / Graphic installation / 1800 x 2400 mm",
+  "description_ja": "半透明のフィルムに印刷したグラフィックを、鋼鉄のフレームに張ったインスタレーション。光の当たり方によって像が結んだり結ばなかったりする。",
+  "spec": {
+    "size": "1800 x 2400 mm",
+    "method": "Print on translucent film / Installation",
+    "software": ["Illustrator", "Photoshop"]
+  },
+  "thumbnail": "",
+  "images": [],
+  "video": null,
+  "process_images": [],
+  "process_text": "",
+  "layout": "spread",
+  "_demo": true
+}

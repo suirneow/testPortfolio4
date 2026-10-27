@@ -1,0 +1,23 @@
+{
+  "id": "demo-3dcg-loop",
+  "title": "Looping Terrain",
+  "year": 2026,
+  "month": 3,
+  "published": true,
+  "genre": "3dcg",
+  "role": "3DCG, Direction",
+  "caption_en": "3DCG loop animation / 1:1 / 00:12 / Software: Blender, Houdini",
+  "description_ja": "地形が生成と消滅を繰り返すループアニメーション。見慣れた風景が、わずかなズレによって未知の地形へと変わる。",
+  "spec": {
+    "size": "1080 x 1080 px",
+    "method": "3DCG loop animation",
+    "software": ["Blender", "Houdini"]
+  },
+  "thumbnail": "",
+  "images": [],
+  "video": null,
+  "process_images": [],
+  "process_text": "",
+  "layout": "default",
+  "_demo": true
+}

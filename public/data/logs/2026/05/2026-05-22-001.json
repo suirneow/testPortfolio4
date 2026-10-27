@@ -1,0 +1,10 @@
+{
+  "id": "2026-05-22-001",
+  "date": "2026-05-22T22:10:00+09:00",
+  "published": true,
+  "body": "After Effectsのエクスプレッションでテキストが波打つアニメーションを作った。単純なsin波だけど、文字が呼吸しているように見える。\n\n#motiongraphics #AfterEffects",
+  "tags": ["motion-graphics", "expression"],
+  "images": [],
+  "video": null,
+  "_demo": true
+}

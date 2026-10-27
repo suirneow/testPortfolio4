@@ -1,0 +1,23 @@
+{
+  "id": "demo-projection-mapping",
+  "title": "Residual Light",
+  "year": 2026,
+  "month": 7,
+  "published": true,
+  "genre": "projection-mapping",
+  "role": "Direction, Video, Programming",
+  "caption_en": "Screen: W2100 x H4990 mm + gymnasium wall (rear) / Projection mapping / Video installation / Software: Blender, After Effects, TouchDesigner",
+  "description_ja": "体育館の壁面に投影した映像インスタレーション。建物の輪郭線をなぞる光が、空間そのものを別の知覚へとずらしていく。",
+  "spec": {
+    "size": "W2100 x H4990 mm + gymnasium wall",
+    "method": "Projection mapping / Video installation",
+    "software": ["Blender", "After Effects", "TouchDesigner"]
+  },
+  "thumbnail": "",
+  "images": [],
+  "video": null,
+  "process_images": [],
+  "process_text": "",
+  "layout": "default",
+  "_demo": true
+}

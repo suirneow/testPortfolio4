@@ -1,0 +1,23 @@
+{
+  "id": "demo-motion-graphic",
+  "title": "Phantom Type",
+  "year": 2026,
+  "month": 6,
+  "published": true,
+  "genre": "motion-graphics",
+  "role": "Motion Design, Typography",
+  "caption_en": "Motion graphics / 16:9 / 00:45 / Software: After Effects, Cinema 4D",
+  "description_ja": "文字が空間の中で分解・再構成されるモーショングラフィックス。タイポグラフィの持つ意味と、かたちだけの存在感のあいだを行き来する。",
+  "spec": {
+    "size": "1920 x 1080 px",
+    "method": "Motion graphics",
+    "software": ["After Effects", "Cinema 4D"]
+  },
+  "thumbnail": "",
+  "images": [],
+  "video": null,
+  "process_images": [],
+  "process_text": "",
+  "layout": "default",
+  "_demo": true
+}

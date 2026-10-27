@@ -1,0 +1,15 @@
+{
+  "_comment": "=== マイクロブログ テンプレート ===",
+  "_usage": "このファイルをコピーして、年月フォルダ内に新しいJSONファイルとして保存してください。",
+  "_filename_example": "public/data/logs/2026/07/2026-07-15-001.json",
+  "_filename_rule": "ファイル名は 'YYYY-MM-DD-連番.json' の形式。同日2件目なら -002",
+  "_after_creating": "作成後、public/data/logs/index.json の配列にファイルパスを追加してください。",
+
+  "id": "2026-07-15-001",
+  "date": "2026-07-15T14:30:00+09:00",
+  "published": true,
+  "body": "ここに本文を書きます。改行は\\nで表現します。\nリンクは https://example.com のようにURLをそのまま書きます。\nハッシュタグは #tag-name のように書きます。",
+  "tags": ["thought", "process"],
+  "images": [],
+  "video": null
+}

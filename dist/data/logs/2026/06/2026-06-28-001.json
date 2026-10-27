@@ -1,0 +1,10 @@
+{
+  "id": "2026-06-28-001",
+  "date": "2026-06-28T20:00:00+09:00",
+  "published": true,
+  "body": "BlenderのGeometry Nodesで地形を生成中。ノイズのシード値を0.01刻みで変えてみると、ほとんど同じなのに決定的に違う形になる。",
+  "tags": ["Blender", "process"],
+  "images": [],
+  "video": null,
+  "_demo": true
+}

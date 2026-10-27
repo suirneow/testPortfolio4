@@ -1,0 +1,47 @@
+{
+  "_comment": "=== 作品データ テンプレート ===",
+  "_usage": "このファイルをコピーして、年月フォルダ内に新しいJSONファイルとして保存してください。",
+  "_filename_example": "public/data/works/2026/07/my-work.json",
+  "_after_creating": "作成後、public/data/works/index.json の配列にファイルパス(例: '2026/07/my-work.json')を追加してください。",
+
+  "id": "unique-slug-like-my-work",
+  "title": "作品タイトル",
+  "year": 2026,
+  "month": 7,
+  "published": true,
+
+  "genre": "projection-mapping",
+  "_genre_options": "projection-mapping / video-installation / motion-graphics / 3dcg / graphic / interactive / other",
+
+  "role": "Direction, Video, Programming",
+  "caption_en": "Screen: W2100 x H4990 mm / Projection mapping / Video installation / Software: Blender, After Effects, TouchDesigner",
+  "description_ja": "ここに日本語の説明文を入れます。作品のコンセプトや制作背景を書いてください。",
+
+  "spec": {
+    "size": "W2100 x H4990 mm",
+    "method": "Projection mapping / Video installation",
+    "software": ["Blender", "After Effects", "TouchDesigner"]
+  },
+
+  "thumbnail": "https://www.dropbox.com/s/xxxxx/thumbnail.jpg?raw=1",
+  "_thumbnail_note": "Dropbox共有リンクの 'dl=0' を 'raw=1' に置き換えると直接参照できます",
+
+  "images": [
+    "https://www.dropbox.com/s/xxxxx/image-01.jpg?raw=1",
+    "https://www.dropbox.com/s/xxxxx/image-02.jpg?raw=1"
+  ],
+
+  "video": {
+    "type": "youtube",
+    "_type_options": "youtube / vimeo / mp4",
+    "url": "https://www.youtube.com/embed/XXXXXXXXXXX"
+  },
+
+  "process_images": [
+    "https://www.dropbox.com/s/xxxxx/process-01.jpg?raw=1"
+  ],
+  "process_text": "制作過程の説明（任意）",
+
+  "layout": "default",
+  "_layout_options": "default（全面写真+左下キャプション+右下説明） / spread（見開き構成：左に実物写真+コンセプト、右に制作過程）"
+}
